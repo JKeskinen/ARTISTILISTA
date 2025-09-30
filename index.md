@@ -44,7 +44,7 @@
   <script>
     async function loadArtists() {
       try {
-        const res = await fetch("https://<oma-funktio>.azurewebsites.net/api/artist"); 
+        const res = await fetch("https://artisttabletesttite24juho.azurewebsites.net/api/artist");
         const data = await res.json();
         const tbody = document.querySelector("#artistTable tbody");
 

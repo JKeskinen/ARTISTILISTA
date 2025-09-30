@@ -1,4 +1,4 @@
 ---
-Artisti-listat
+Artisti-lista
 ---
 
